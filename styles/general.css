@@ -1,0 +1,13 @@
+/* This is a comment */ 
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+body{
+    margin: 0;
+    font-family: Roboto, Arial;
+    padding: 80px 24px 50px 96px;
+    background-color: rgb(248, 248, 248);
+}
+
